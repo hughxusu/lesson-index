@@ -1,4 +1,16 @@
-# 大纲
+# 教程索引
 
-1. 程序员的工作 https://hughxusu.github.io/lesson-outline/#/coder
-2. 程序员的自我修养 https://hughxusu.github.io/lesson-outline/#/experience
+
+
+## 本站目录
+
+* 程序员的工作 https://hughxusu.github.io/lesson-index/#/coder
+
+* 程序员的自我修养 https://hughxusu.github.io/lesson-index/#/experience
+
+
+
+## 资源索引
+
+
+
