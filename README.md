@@ -4,14 +4,14 @@
 
 ## 本站目录
 
-| 标题             | 网址                                                 |
+| 主题             | 网址                                                 |
 | ---------------- | ---------------------------------------------------- |
 | 程序员的工作     | https://hughxusu.github.io/lesson-index/#/coder      |
 | 程序员的自我修养 | https://hughxusu.github.io/lesson-index/#/experience |
 
 ## 课程目录
 
-| 标题         | 网址                                                 |
+| 主题         | 网址                                                 |
 | ------------ | ---------------------------------------------------- |
 | Web编程基础  | https://hughxusu.github.io/lesson-web/#/             |
 | Python语言   | https://hughxusu.github.io/lesson-py/#/              |
