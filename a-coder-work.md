@@ -20,6 +20,10 @@ flowchart LR
     subgraph 服务端Server
     c -- 数据库查询 --> d(数据库)
     end
+    subgraph 前端
+    a
+    b
+    end
 ```
 
 ## 程序员的职业方向
