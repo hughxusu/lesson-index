@@ -28,10 +28,14 @@ flowchart LR
 
 ## 程序员的职业方向
 
-<img src="https://s1.ax1x.com/2023/05/25/p9HVhIf.png" />
+<img src="https://s1.ax1x.com/2023/07/03/pCrM7JH.png" />
 
 ## 程序员的职业技能
 
 ![](https://s1.ax1x.com/2023/05/25/p9HVTzQ.png)
 
 [拉钩网](https://www.lagou.com/)——看看都有哪些工作。
+
+## AI与程序员
+
+ChatGBT 基于大数据的模型，数据量 $10^{25}$ 的数据点，是一种大数据的"涌现现象"。
