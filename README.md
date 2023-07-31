@@ -21,3 +21,10 @@
 | 编程百艺     | https://hughxusu.github.io/lesson-knowledge/#/README |
 
 ## 课程目录
+
+| 标题                  | 网址                                                     |
+| --------------------- | -------------------------------------------------------- |
+| Python 程序设计基础 I | https://hughxusu.github.io/lesson-index/#/outline/python |
+|                       |                                                          |
+|                       |                                                          |
+

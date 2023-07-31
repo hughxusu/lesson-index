@@ -28,7 +28,7 @@ flowchart LR
 
 ## 程序员的职业方向
 
-<img src="https://s1.ax1x.com/2023/05/25/p9HVhIf.png" />
+<img src="https://s1.ax1x.com/2023/07/03/pCrM7JH.png" />
 
 ## 程序员的职业技能
 
