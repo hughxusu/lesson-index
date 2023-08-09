@@ -26,5 +26,5 @@
 | ------------------------ | --------------------------------------------------------- |
 | Python 程序设计基础 I    | https://hughxusu.github.io/lesson-index/#/outline/python  |
 | 计算机网络基础及应用Ⅰ    | https://hughxusu.github.io/lesson-index/#/outline/network |
-| Matlab程序设计实践与提高 | https://hughxusu.github.io/lesson-index/#/outline/network |
+| Matlab程序设计实践与提高 | https://hughxusu.github.io/lesson-index/#/outline/matlab  |
 
