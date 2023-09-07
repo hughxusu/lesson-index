@@ -29,3 +29,6 @@
 | 计算机网络基础及应用Ⅰ    | https://hughxusu.github.io/lesson-index/#/outline/network |
 | Matlab程序设计实践与提高 | https://hughxusu.github.io/lesson-index/#/outline/matlab  |
 
+## 资源下载
+
+百度网盘: https://pan.baidu.com/s/1ZxrHOb75zrsfLQbjqEkd-Q 提取码: 5hc9 
