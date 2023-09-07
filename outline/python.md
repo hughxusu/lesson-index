@@ -1,6 +1,6 @@
 # Python 程序设计基础 I
 
-[**授课教师：徐夙**](https://hughxusu.github.io/lesson-index/#/c-teacher)
+[授课教师：徐夙](https://hughxusu.github.io/lesson-index/#/c-teacher)
 
 本站网址：https://hughxusu.github.io/lesson-index/#/outline/python
 

@@ -1,6 +1,6 @@
 # 计算机网络基础及应用Ⅰ
 
-[**授课教师：徐夙**](https://hughxusu.github.io/lesson-index/#/c-teacher)
+[授课教师：徐夙](https://hughxusu.github.io/lesson-index/#/c-teacher)
 
 本站网址：https://hughxusu.github.io/lesson-index/#/outline/network
 
