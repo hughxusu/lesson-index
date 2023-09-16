@@ -4,6 +4,8 @@
 
 本站网址：https://hughxusu.github.io/lesson-index/#/outline/matlab
 
+<img src="https://z1.ax1x.com/2023/09/16/pPf6u9O.png" style="zoom: 55%;" />
+
 ## 课程主要内容
 
 1. [程序员的工作](https://hughxusu.github.io/lesson-index/#/a-coder-work) 
