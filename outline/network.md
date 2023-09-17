@@ -4,7 +4,7 @@
 
 本站网址：https://hughxusu.github.io/lesson-index/#/outline/network
 
-<img src="https://z1.ax1x.com/2023/09/16/pPf6rbn.png" style="zoom:55%;" />
+<img src="https://z1.ax1x.com/2023/09/17/pPfzqxS.png" style="zoom:50%;" />
 
 ## 课程主要内容
 
