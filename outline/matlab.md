@@ -4,7 +4,7 @@
 
 本站网址：https://hughxusu.github.io/lesson-index/#/outline/matlab
 
-<img src="https://z1.ax1x.com/2023/09/17/pPhSKG6.png" style="zoom: 50%;" />
+<img src="https://raw.githubusercontent.com/hughxusu/lesson-index/main/_media/matlab.png" style="zoom:50%;" />
 
 ## 课程主要内容
 
