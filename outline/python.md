@@ -4,7 +4,7 @@
 
 本站网址：https://hughxusu.github.io/lesson-index/#/outline/python
 
-<img src="../_media/python.png" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/hughxusu/lesson-index/main/_media/python.png" style="zoom:50%;" />
 
 ## 课程主要内容
 
