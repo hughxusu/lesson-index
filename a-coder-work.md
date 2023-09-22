@@ -26,6 +26,10 @@ flowchart LR
     end
 ```
 
+### 软件行业的性质
+
+
+
 ## 程序员的职业方向
 
 <img src="https://s1.ax1x.com/2023/07/03/pCrM7JH.png" />
