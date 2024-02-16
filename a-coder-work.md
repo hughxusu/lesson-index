@@ -47,11 +47,11 @@ flowchart LR
 
 ## 程序员的职业方向
 
-<img src="https://s1.ax1x.com/2023/07/03/pCrM7JH.png" />
+<img src="https://s11.ax1x.com/2024/02/16/pFGJ5Qg.png" />
 
 ## 程序员的职业技能
 
-![](https://s1.ax1x.com/2023/05/25/p9HVTzQ.png)
+![](https://s11.ax1x.com/2024/02/16/pFGJoLj.png)
 
 [拉钩网](https://www.lagou.com/)——看看都有哪些工作。
 
