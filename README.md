@@ -20,7 +20,8 @@
 | 服务端编程   | https://hughxusu.github.io/lesson-server/#/          |
 | 机器学习基础 | https://hughxusu.github.io/lesson-ai/#/              |
 | 编程百艺     | https://hughxusu.github.io/lesson-knowledge/#/README |
-|              |                                                      |
+| 提示词工程   | https://hughxusu.github.io/lesson-prompt/#/          |
+| GPT模型原理  | https://hughxusu.github.io/lesson-gpt/#/             |
 
 ## 课程目录
 
