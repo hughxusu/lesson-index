@@ -2,12 +2,12 @@
 
 [授课教师：徐夙](https://hughxusu.github.io/lesson-index/#/c-teacher)
 
-本站网址：https://hughxusu.github.io/lesson-index/#/outline/matlab
+本站网址：https://hughxusu.github.io/lesson-index/#/outline/ai
 
 ## 课程主要内容
 
 1. [提示词工程](https://hughxusu.github.io/lesson-prompt/#/)
-2. [GPT模型原理](https://hughxusu.github.io/lesson-gpt/#/)
+2. [机器学习基础](https://hughxusu.github.io/lesson-ai/#/)
 
 ## 成绩考核
 
