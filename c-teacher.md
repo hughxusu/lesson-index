@@ -1,13 +1,13 @@
 # 个人简介
 
-> 北方工业大学 理学院 数学系
+> 北方工业大学—理学院—数学系
 
 <img src="https://raw.githubusercontent.com/hughxusu/lesson-index/developing/_images/pPyVPSS.jpg" style="zoom: 25%;" />
 
-徐夙
+徐夙，讲师，中科院自动化所博士。
 
 电子邮箱：hughxusu@ncut.edu.cn
 
-办公地址：北方工业大学 博远楼809 一进门左边放青色键盘的办公桌
+办公地址：北方工业大学博远楼809
 
-主要研究方向：图像处理算法、前端编程和服务端编程
+研究方向：机器学习、前端开发和服务端开发。
