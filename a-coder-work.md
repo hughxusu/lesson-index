@@ -35,7 +35,7 @@ flowchart LR
 
 浏览器/客户端：上网过程中，负责获取和消费资源的电脑。
 
-![](https://img2020.cnblogs.com/blog/1774310/202007/1774310-20200706180730400-526445821.png)
+![](_images/1774310-20200706180730400-526445821.png)
 
 ### 软件行业的性质
 
@@ -47,11 +47,11 @@ flowchart LR
 
 ## 程序员的职业方向
 
-<img src="https://s11.ax1x.com/2024/02/16/pFGJ5Qg.png" />
+<img src="_images/pFGJ5Qg.png" />
 
 ## 程序员的职业技能
 
-![](https://s11.ax1x.com/2024/02/16/pFGJoLj.png)
+![](_images/pFGJoLj.png)
 
 [拉钩网](https://www.lagou.com/)——看看都有哪些工作。
 
