@@ -35,26 +35,25 @@ flowchart LR
 
 浏览器/客户端：上网过程中，负责获取和消费资源的电脑。
 
-![](_images/1774310-20200706180730400-526445821.png)
+![](https://raw.githubusercontent.com/hughxusu/lesson-index/developing/_images/1774310-20200706180730400-526445821.png)
 
-### 软件行业的性质
-
-第一产业是指农、林、牧、渔业。 
-
-第二产业是指采矿业，制造业，电力、燃气及水的生产和供应业，建筑业。
-
-第三产业是指除第一、二产业以外的其他行业。
+> 软件行业是一种特殊的制造业，制造的东西并不是实体。
 
 ## 程序员的职业方向
 
-<img src="_images/pFGJ5Qg.png" />
+<img src="https://raw.githubusercontent.com/hughxusu/lesson-index/developing/_images/pFGJ5Qg.png" />
 
 ## 程序员的职业技能
 
-![](_images/pFGJoLj.png)
+![](https://raw.githubusercontent.com/hughxusu/lesson-index/developing/_images/pFGJoLj.png)
 
-[拉钩网](https://www.lagou.com/)——看看都有哪些工作。
+## 看看都有哪些工作
 
-## AI与程序员
+[拉钩网](https://www.lagou.com/)
 
-ChatGBT 基于大数据的模型，数据量 $10^{25}$ 的数据点，是一种大数据的"涌现现象"。
+## 程序员与AI
+
+目前的人工智能发展可以一定程度的提高程序工作效率，但是并不能替代程序员的工作。
+
+> 如果人工智能可以完全替代程序员，那99%的工作就可以由人工智能替代。
+
