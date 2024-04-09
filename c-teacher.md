@@ -2,7 +2,7 @@
 
 > 北方工业大学 理学院 数学系
 
-<img src="https://s1.ax1x.com/2023/09/07/pPyVPSS.jpg" style="zoom: 25%;" />
+<img src="_images/pPyVPSS.jpg" style="zoom: 25%;" />
 
 徐夙
 
