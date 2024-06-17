@@ -12,16 +12,14 @@
 
 ## 教程目录
 
-| 标题         | 网址                                                 |
-| ------------ | ---------------------------------------------------- |
-| Web编程基础  | https://hughxusu.github.io/lesson-web/#/             |
-| Python语言   | https://hughxusu.github.io/lesson-py/#/              |
-| MySQL基础    | https://hughxusu.github.io/lesson-mysql/#/           |
-| 服务端编程   | https://hughxusu.github.io/lesson-server/#/          |
-| 机器学习基础 | https://hughxusu.github.io/lesson-ai/#/              |
-| 编程百艺     | https://hughxusu.github.io/lesson-knowledge/#/README |
-| 提示词工程   | https://hughxusu.github.io/lesson-prompt/#/          |
-| GPT模型原理  | https://hughxusu.github.io/lesson-gpt/#/             |
+| 标题         | 网址                                           |
+| ------------ | ---------------------------------------------- |
+| Web编程基础  | https://hughxusu.github.io/lesson-web/#/       |
+| Python语言   | https://hughxusu.github.io/lesson-py/#/        |
+| MySQL基础    | https://hughxusu.github.io/lesson-mysql/#/     |
+| 服务端编程   | https://hughxusu.github.io/lesson-server/#/    |
+| 机器学习基础 | https://hughxusu.github.io/lesson-ai/#/        |
+| 编程百艺     | https://hughxusu.github.io/lesson-knowledge/#/ |
 
 ## 课程目录
 
