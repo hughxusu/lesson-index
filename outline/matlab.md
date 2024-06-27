@@ -9,10 +9,11 @@
 1. [程序员的工作](https://hughxusu.github.io/lesson-index/#/a-coder-work) 
 2. [如何学习编程](https://hughxusu.github.io/lesson-index/#/b-how-study)
 3. [Python语言](https://hughxusu.github.io/lesson-py/#/)
+   * Python语法
+   * Python安装包与虚拟环境
+   * Python常用库
 4. [正则表达式]()
-5. [MySQL与Python接口](https://hughxusu.github.io/lesson-mysql/#/)
-6. [Python常用数学库]()
-7. [Git仓库使用]()
+5. [Git仓库使用]()
 
 ## 成绩考核
 
