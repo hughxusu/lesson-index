@@ -32,6 +32,7 @@
 | Matlab程序设计实践与提高 | https://hughxusu.github.io/lesson-index/#/outline/matlab    |
 | 人工智能基础             | https://hughxusu.github.io/lesson-index/#/outline/ai        |
 | 深度学习的数学基础及实践 | https://hughxusu.github.io/lesson-index/#/outline/deeplearn |
+| 数学软件实习             | https://hughxusu.github.io/lesson-index/#/outline/math      |
 
 ## 资源下载
 
