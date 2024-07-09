@@ -20,6 +20,28 @@
 
 [leetcode官网](https://leetcode.cn/)
 
+| 序号 | 题目编号     | 题目名称                                                     |
+| ---- | ------------ | ------------------------------------------------------------ |
+| 1    | Leetcode 27  | [移除元素](https://leetcode.cn/problems/remove-element/)     |
+| 2    | Leetcode 26  | [删除有序数组中的重复项](https://leetcode.cn/problems/remove-duplicates-from-sorted-array/) |
+| 3    | Leetcode 80  | [删除有序数组中的重复项 II](https://leetcode.cn/problems/remove-duplicates-from-sorted-array-ii/) |
+| 4    | Leetcode 88  | [合并两个有序数组](https://leetcode.cn/problems/merge-sorted-array/) |
+| 5    | Leetcode 215 | [数组中的第K个最大元素](https://leetcode.cn/problems/kth-largest-element-in-an-array/) |
+| 6    | Leetcode 125 | [验证回文串](https://leetcode.cn/problems/valid-palindrome/) |
+| 7    | Leetcode 344 | [反转字符串](https://leetcode.cn/problems/reverse-string/)   |
+| 8    | Leetcode 345 | [反转字符串中的元音字母](https://leetcode.cn/problems/reverse-vowels-of-a-string/) |
+| 9    | Leetcode 11  | [盛最多水的容器](https://leetcode.cn/problems/container-with-most-water/) |
+| 10   | Leetcode 438 | [找到字符串中所有字母异位词](https://leetcode.cn/problems/find-all-anagrams-in-a-string/) |
+| 11   | Leetcode 76  | [最小覆盖子串](https://leetcode.cn/problems/minimum-window-substring/) |
+|      |              |                                                              |
+|      |              |                                                              |
+|      |              |                                                              |
+|      |              |                                                              |
+|      |              |                                                              |
+|      |              |                                                              |
+|      |              |                                                              |
+|      |              |                                                              |
+
 
 
 ## 资源下载
