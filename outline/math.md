@@ -4,9 +4,7 @@
 
 本站网址：https://hughxusu.github.io/lesson-index/#/outline/math
 
-课程主要内容
-
-1. [算法应用与实践](https://hughxusu.github.io/lesson-algorithm/#/) 
+课程主要内容：[算法应用与实践](https://hughxusu.github.io/lesson-algorithm/#/) 
 
 ## 成绩考核
 
@@ -20,7 +18,7 @@
 
 大作业共100分。
 
-### 作业要求
+### 报告要求
 
 1. 按报告模板的要求完成作业，word报告需要包括：题号、题目、代码和**执行结果的截图。**
 2. 每位同学打印报告（**双面打印**），交到北方工业大学博远楼809。
@@ -52,4 +50,11 @@
 
 ## 资源下载
 
-百度网盘: https://pan.baidu.com/s/1-0hsI-JurN3I9zc25CcD4w 提取码: bss5
+百度网盘: https://pan.baidu.com/s/1-0hsI-JurN3I9zc25CcD4w 
+
+提取码：
+
+```shell
+bss5
+```
+
