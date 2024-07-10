@@ -2,7 +2,7 @@
 
 > 北方工业大学—理学院—数学系
 
-<img src="https://raw.githubusercontent.com/hughxusu/lesson-index/developing/_images/pPyVPSS.jpg" style="zoom: 25%;" />
+<img src="https://raw.githubusercontent.com/hughxusu/lesson-index/developing/_images/pPyVPSS.jpg" style="zoom: 20%;" />
 
 徐夙，讲师，中科院自动化所博士。
 
@@ -22,7 +22,7 @@
 - [人工智能基础](https://hughxusu.github.io/lesson-index/#/outline/ai)
 - [数学软件实习](https://hughxusu.github.io/lesson-index/#/outline/math)
 
-### 研究课程
+### 研究生课程
 
 - [Matlab程序设计实践与提高](https://hughxusu.github.io/lesson-index/#/outline/matlab)
 - [深度学习的数学基础及实践](https://hughxusu.github.io/lesson-index/#/outline/deeplearn)
