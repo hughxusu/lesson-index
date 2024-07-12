@@ -33,4 +33,5 @@
 | 人工智能基础             | https://hughxusu.github.io/lesson-index/#/outline/ai        |
 | 深度学习的数学基础及实践 | https://hughxusu.github.io/lesson-index/#/outline/deeplearn |
 | 数学软件实习             | https://hughxusu.github.io/lesson-index/#/outline/math      |
+| 信息与计算科学课程设计   | https://hughxusu.github.io/lesson-index/#/outline/design    |
 
