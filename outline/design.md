@@ -1,7 +1,5 @@
 # 信息与计算科学课程设计
 
-[授课教师：徐夙](https://hughxusu.github.io/lesson-index/#/c-teacher)
-
 本站网址：https://hughxusu.github.io/lesson-index/#/outline/design
 
 
