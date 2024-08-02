@@ -39,4 +39,10 @@
 
 ## 资源下载
 
-百度网盘: https://pan.baidu.com/s/1ZxrHOb75zrsfLQbjqEkd-Q 提取码: 5hc9 
+百度网盘:  https://pan.baidu.com/s/1m7Q9OT4NJZvhRFDuO9Exkw
+
+提取码：
+
+```shell
+es4a
+```
