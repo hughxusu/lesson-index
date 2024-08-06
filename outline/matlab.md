@@ -9,27 +9,33 @@
 1. [程序员的工作](https://hughxusu.github.io/lesson-index/#/a-coder-work) 
 2. [如何学习编程](https://hughxusu.github.io/lesson-index/#/b-how-study)
 3. [Python语言](https://hughxusu.github.io/lesson-py/#/)
-   * Python语法
-   * Python安装包与虚拟环境
-   * Python常用库
-4. [正则表达式]()
-5. [Git仓库使用]()
 
 ## 成绩考核
 
 * 平时成绩 30%。80分基础分，随机抽查点名或回答问题5次，每次4分工20分，共100分。
 * 期末大作业 70%，共100分。
 
-## 期末大作业
+### 作业要求
 
-作业要求：
+#### 期末大作业
 
 1. 根据题目要求完成课程设计。
 2. 最后一次课，根据课程设计的内容进行答辩。
-3. 每位同学都要提交设计报告，设计报告需要双面打印提交。
+3. 每位同学都要提交设计报告，设计报告需要**双面打印**提交。
 4. 作业题目课程接近结束是发布。
 5. 报告模板在资源下载中。
 
 ## 资源下载
 
-百度网盘: https://pan.baidu.com/s/1ZxrHOb75zrsfLQbjqEkd-Q 提取码: 5hc9 
+百度网盘：https://pan.baidu.com/s/1u0Me05z6QUUTbMVY9ScXZw 
+
+提取码：
+
+```shell
+maf1 
+```
+
+
+
+链接: 提取码: 
+--来自百度网盘超级会员v8的分享

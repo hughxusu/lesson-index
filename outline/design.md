@@ -2,8 +2,6 @@
 
 本站网址：https://hughxusu.github.io/lesson-index/#/outline/design
 
-
-
 ## 课程安排
 
 * 课程主要内容参见《信息与计算科学课程设计指导书》，发布在课程群中。
