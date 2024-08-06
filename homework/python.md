@@ -1,6 +1,6 @@
 # Python作业
 
-## Python平时作业
+## 平时作业
 
 ### 作业一
 
@@ -47,7 +47,7 @@
 | 9    | 2105          | [在文件中写入 Hello World!](https://www.lintcode.com/problem/2105/?showListFe=true&page=4&problemTypeId=8&pageSize=50) |
 | 10   | 2089          | [使用 decorator 实现一个函数计时器](https://www.lintcode.com/problem/2089/?showListFe=true&page=4&problemTypeId=8&pageSize=50) |
 
-### 平时成绩评分标准
+### 平时作业评分标准
 
 完成Lintcode算法题目，并提交报告。
 
@@ -57,7 +57,7 @@
 
 每次作业满分100分。
 
-## Python大作业
+## 期末大作业
 
 ### 学生成绩管理系统需求
 
@@ -155,7 +155,7 @@
    * 附录：系统完整代码
 3. 报告内容规范可以《参考软件系统设计说明书》
 
-### 大作业评分标准
+### 期末大作业评分标准
 
 #### 系统设计描述（20分）
 

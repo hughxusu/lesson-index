@@ -9,9 +9,6 @@
 1. [程序员的工作](https://hughxusu.github.io/lesson-index/#/a-coder-work) 
 2. [如何学习编程](https://hughxusu.github.io/lesson-index/#/b-how-study)
 3. [Python语言](https://hughxusu.github.io/lesson-py/#/)
-   * Python语法
-   * Python安装包与虚拟环境
-   * Python常用库
 
 ## 成绩考核
 
