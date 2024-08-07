@@ -49,7 +49,7 @@ flowchart LR
 
 ## 看看都有哪些工作
 
-[拉钩网](https://www.lagou.com/)
+[BOSS直聘](https://www.zhipin.com/beijing/?seoRefer=index)
 
 ## 程序员的发展
 
