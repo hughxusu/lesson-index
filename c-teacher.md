@@ -21,6 +21,8 @@
 - [计算机网络基础及应用Ⅰ](https://hughxusu.github.io/lesson-index/#/outline/network)
 - [人工智能基础](https://hughxusu.github.io/lesson-index/#/outline/ai)
 - [数学软件实习](https://hughxusu.github.io/lesson-index/#/outline/math)
+- [信息与计算科学课程设计](https://hughxusu.github.io/lesson-index/#/outline/design)
+- [信息与计算科学实践实习](https://hughxusu.github.io/lesson-index/#/outline/practice)
 
 ### 研究生课程
 
