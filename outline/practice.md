@@ -1,6 +1,6 @@
 # 信息与计算科学实践实习
 
-[授课教师：徐夙](https://hughxusu.github.io/lesson-index/#/c-teacher)、张波
+[责任教师：徐夙](https://hughxusu.github.io/lesson-index/#/c-teacher)、张波
 
 本站网址：https://hughxusu.github.io/lesson-index/#/outline/design
 
