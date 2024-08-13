@@ -36,3 +36,5 @@
 | 信息与计算科学课程设计   | https://hughxusu.github.io/lesson-index/#/outline/design    |
 | 信息与计算科学实践实习   | https://hughxusu.github.io/lesson-index/#/outline/practice  |
 
+链接: https://pan.baidu.com/s/1afNlCAYiusA7biwC-BLKrw 提取码: 1u1j 
+--来自百度网盘超级会员v8的分享
