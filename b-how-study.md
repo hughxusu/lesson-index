@@ -40,6 +40,10 @@
 1. 与编程语言种类无关的通用知识（良好的编程习惯），比如：变量的命名规则、写注释时的注意事项、写条件分支语句的技巧。
 2. 与编程语言种类相关的知识（熟练的掌握编程语法）。利用每种语言自身的特性来优化代码、提高执行效率，表达业务或算法逻辑。
 
+## 编程学习的最佳实践
+
+* [结对编程](https://hughxusu.github.io/lesson-knowledge/#/others/%E7%BB%93%E5%AF%B9%E7%BC%96%E7%A8%8B)
+
 ## 课外阅读
 
 [一个合格的程序员应该读过哪些书](https://justjavac.com/other/2012/05/15/qualified-programmer-should-read-what-books.html)
