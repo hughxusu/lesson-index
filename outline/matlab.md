@@ -44,3 +44,7 @@
 ## 资源下载
 
 [模板文件下载](https://resource-443.webvpn.ncut.edu.cn/asset/#/share?shareId=1709f6d9c82190647d5fbf33514e5fbb)
+
+> [!warning]
+>
+> [使用校园网打开或使用webvpn登录](https://webvpn.ncut.edu.cn/iam/login)
