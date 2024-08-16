@@ -37,3 +37,7 @@
 ## 资源下载
 
 [模板文件下载](https://resource-443.webvpn.ncut.edu.cn/asset/#/share?shareId=ff0d08118a2c80619a9b62c2c076e8ea)
+
+> [!warning]
+>
+> [使用校园网打开或使用webvpn登录](https://webvpn.ncut.edu.cn/iam/login)
