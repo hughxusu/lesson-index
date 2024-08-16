@@ -16,8 +16,8 @@
 
 ### 本科课程
 
-- [Python 程序设计基础 I](https://hughxusu.github.io/lesson-index/#/outline/python_1)
-- [Python 程序设计基础](https://hughxusu.github.io/lesson-index/#/outline/python)
+- [Python程序设计基础I](https://hughxusu.github.io/lesson-index/#/outline/python_1)
+- [Python程序设计基础](https://hughxusu.github.io/lesson-index/#/outline/python)
 - [计算机网络基础及应用Ⅰ](https://hughxusu.github.io/lesson-index/#/outline/network)
 - [人工智能基础](https://hughxusu.github.io/lesson-index/#/outline/ai)
 - [数学软件实习](https://hughxusu.github.io/lesson-index/#/outline/math)
