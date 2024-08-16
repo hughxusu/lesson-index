@@ -42,10 +42,4 @@
 
 ## 资源下载
 
-百度网盘:  https://pan.baidu.com/s/1m7Q9OT4NJZvhRFDuO9Exkw
-
-提取码：
-
-```shell
-es4a
-```
+[模板文件下载](https://resource-443.webvpn.ncut.edu.cn/asset/#/share?shareId=dd8de502370742b078b30ec2c2952e0f)

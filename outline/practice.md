@@ -48,11 +48,4 @@
 
 ## 资源下载
 
-百度网盘: https://pan.baidu.com/s/1pxpb9FRzfDAxtQ2HHymiNQ 
-
-提取码：
-
-```shell
-n5o7
-```
-
+[模板文件下载](https://resource-443.webvpn.ncut.edu.cn/asset/#/share?shareId=7bc4a2a7d9f94ec4b33033f0ccc66ded)

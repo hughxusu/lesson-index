@@ -73,5 +73,3 @@
 5. 从网上寻找以训练好的模型，比较网上模型与自己训练模型的性能差距。
 
 ## 资源下载
-
-百度网盘: https://pan.baidu.com/s/1ZxrHOb75zrsfLQbjqEkd-Q 提取码: 5hc9 

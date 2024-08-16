@@ -45,10 +45,5 @@
 
 ## 资源下载
 
-百度网盘:  https://pan.baidu.com/s/1Wi3Q718_-iH1lnkxK0ShrQ
 
-提取码：
 
-```shell
-4qaa
-```

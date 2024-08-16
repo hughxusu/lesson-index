@@ -36,10 +36,4 @@
 
 ## 资源下载
 
-百度网盘: https://pan.baidu.com/s/1Eqc26Vw1sH329nn79OFELw 
-
-提取码：
-
-```shell
-6ueo 
-```
+[模板文件下载](https://resource-443.webvpn.ncut.edu.cn/asset/#/share?shareId=ff0d08118a2c80619a9b62c2c076e8ea)

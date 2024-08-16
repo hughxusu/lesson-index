@@ -15,5 +15,3 @@
 * 期末大作业 70%，共100分。
 
 ## 资源下载
-
-百度网盘: https://pan.baidu.com/s/1ZxrHOb75zrsfLQbjqEkd-Q 提取码: 5hc9 

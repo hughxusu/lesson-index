@@ -43,11 +43,4 @@
 
 ## 资源下载
 
-百度网盘：https://pan.baidu.com/s/1u0Me05z6QUUTbMVY9ScXZw 
-
-提取码：
-
-```shell
-maf1 
-```
-
+[模板文件下载](https://resource-443.webvpn.ncut.edu.cn/asset/#/share?shareId=1709f6d9c82190647d5fbf33514e5fbb)

@@ -38,11 +38,4 @@
 
 ## 资源下载
 
-百度网盘: https://pan.baidu.com/s/1-0hsI-JurN3I9zc25CcD4w 
-
-提取码：
-
-```shell
-bss5
-```
-
+[模板文件下载](https://resource-443.webvpn.ncut.edu.cn/asset/#/share?shareId=fa85a9a9390906d914597b96680e6aab)
