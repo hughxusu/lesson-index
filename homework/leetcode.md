@@ -20,7 +20,7 @@
 | 10   | Leetcode 111 | [二叉树的最小深度](https://leetcode.cn/problems/minimum-depth-of-binary-tree/) |
 | 11   | Leetcode 145 | [二叉树的后序遍历](https://leetcode.cn/problems/binary-tree-postorder-traversal/) |
 | 12   | Leetcode 94  | [二叉树的中序遍历](https://leetcode.cn/problems/binary-tree-inorder-traversal/) |
-| 13   | Leetcode 93  | [分割回文串](https://leetcode.cn/problems/palindrome-partitioning/) |
+| 13   | Leetcode 131 | [分割回文串](https://leetcode.cn/problems/palindrome-partitioning/) |
 | 14   | Leetcode 78  | [子集](https://leetcode.cn/problems/subsets/)                |
 | 15   | Leetcode 39  | [组合总和](https://leetcode.cn/problems/combination-sum/)    |
 | 16   | Leetcode 62  | [不同路径](https://leetcode.cn/problems/unique-paths/)       |
