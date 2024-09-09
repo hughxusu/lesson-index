@@ -6,9 +6,7 @@
 
 ## 课程主要内容
 
-1. [程序员的工作](https://hughxusu.github.io/lesson-index/#/a-coder-work) 
-2. [如何学习编程](https://hughxusu.github.io/lesson-index/#/b-how-study)
-1. [Web编程基础](https://hughxusu.github.io/lesson-web/#/)
+[Web编程基础](https://hughxusu.github.io/lesson-web/#/)
 
 ## 成绩考核
 
