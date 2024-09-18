@@ -7,7 +7,7 @@
 | 题号 | Lintcode 序号 | 题目                                                         |
 | ---- | ------------- | ------------------------------------------------------------ |
 | 1    | 3065          | [HTML 的基本语法](https://www.lintcode.com/problem/3065/?showListFe=true&page=1&problemTypeId=16&pageSize=50) |
-| 2    | 2996          | [制作学生信息表格](https://www.lintcode.com/problem/2996/?showListFe=true&page=1&problemTypeId=16&pageSize=50) |
+| 2    | 3071          | [图片标签img](https://www.lintcode.com/problem/3071/?showListFe=true&page=1&problemTypeId=16&pageSize=50) |
 | 3    | 3113          | [HTML 字符实体](https://www.lintcode.com/problem/3113/?showListFe=true&page=1&problemTypeId=16&pageSize=50) |
 | 4    | 3106          | [标签包裹输入框 label](https://www.lintcode.com/problem/3106/?showListFe=true&page=1&problemTypeId=16&pageSize=50) |
 | 5    | 3063          | [HTML 页面标题标签 title](https://www.lintcode.com/problem/3063/?showListFe=true&page=1&problemTypeId=16&pageSize=50) |
