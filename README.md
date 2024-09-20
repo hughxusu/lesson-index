@@ -9,6 +9,7 @@
 | 程序员的工作 | https://hughxusu.github.io/lesson-index/#/a-coder-work |
 | 如何学习编程 | https://hughxusu.github.io/lesson-index/#/b-how-study  |
 | 个人简介     | https://hughxusu.github.io/lesson-index/#/c-teacher    |
+| 毕业论文     | https://hughxusu.github.io/lesson-index/#/d-paper      |
 
 ## 教程目录
 
