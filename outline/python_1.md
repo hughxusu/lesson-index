@@ -9,6 +9,7 @@
 1. [程序员的工作](https://hughxusu.github.io/lesson-index/#/a-coder-work) 
 2. [如何学习编程](https://hughxusu.github.io/lesson-index/#/b-how-study)
 3. [Python语言](https://hughxusu.github.io/lesson-py/#/)
+4. [Git与Github](https://hughxusu.github.io/lesson-knowledge/#/git/01-%E7%AE%80%E4%BB%8B)
 
 ## 成绩考核
 
