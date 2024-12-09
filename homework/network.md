@@ -4,48 +4,48 @@
 
 ### 作业一
 
-| 题号 | Lintcode 序号 | 题目                                                         |
-| ---- | ------------- | ------------------------------------------------------------ |
-| 1    | 3065          | [HTML 的基本语法](https://www.lintcode.com/problem/3065/?showListFe=true&page=1&problemTypeId=16&pageSize=50) |
-| 2    | 3071          | [图片标签img](https://www.lintcode.com/problem/3071/?showListFe=true&page=1&problemTypeId=16&pageSize=50) |
-| 3    | 3113          | [HTML 字符实体](https://www.lintcode.com/problem/3113/?showListFe=true&page=1&problemTypeId=16&pageSize=50) |
-| 4    | 3106          | [标签包裹输入框 label](https://www.lintcode.com/problem/3106/?showListFe=true&page=1&problemTypeId=16&pageSize=50) |
-| 5    | 3063          | [HTML 页面标题标签 title](https://www.lintcode.com/problem/3063/?showListFe=true&page=1&problemTypeId=16&pageSize=50) |
-| 6    | 3104          | [下拉菜单标签 select](https://www.lintcode.com/problem/3104/?showListFe=true&page=1&problemTypeId=16&pageSize=50) |
-| 7    | 3100          | [文本域标签 textarea](https://www.lintcode.com/problem/3100/?showListFe=true&page=1&problemTypeId=16&pageSize=50) |
-| 8    | 3098          | [按钮标签 button](https://www.lintcode.com/problem/3098/?showListFe=true&page=1&problemTypeId=16&pageSize=50) |
-| 9    | 2910          | [添加一个一级标题 Hello LintCode!](https://www.lintcode.com/problem/2910/?showListFe=false&page=2&problemTypeId=16&pageSize=50) |
-| 10   | 2914          | [书写一个有序列表](https://www.lintcode.com/problem/2914/?showListFe=true&page=2&problemTypeId=16&pageSize=50) |
+| 题号 | 题目                                                         |
+| ---- | ------------------------------------------------------------ |
+| 1    | [HTML 的基本语法](https://www.lintcode.com/problem/3065/?showListFe=true&page=1&problemTypeId=16&pageSize=50) |
+| 2    | [图片标签img](https://www.lintcode.com/problem/3071/?showListFe=true&page=1&problemTypeId=16&pageSize=50) |
+| 3    | [HTML 字符实体](https://www.lintcode.com/problem/3113/?showListFe=true&page=1&problemTypeId=16&pageSize=50) |
+| 4    | [标签包裹输入框 label](https://www.lintcode.com/problem/3106/?showListFe=true&page=1&problemTypeId=16&pageSize=50) |
+| 5    | [HTML 页面标题标签 title](https://www.lintcode.com/problem/3063/?showListFe=true&page=1&problemTypeId=16&pageSize=50) |
+| 6    | [下拉菜单标签 select](https://www.lintcode.com/problem/3104/?showListFe=true&page=1&problemTypeId=16&pageSize=50) |
+| 7    | [文本域标签 textarea](https://www.lintcode.com/problem/3100/?showListFe=true&page=1&problemTypeId=16&pageSize=50) |
+| 8    | [按钮标签 button](https://www.lintcode.com/problem/3098/?showListFe=true&page=1&problemTypeId=16&pageSize=50) |
+| 9    | [添加一个一级标题 Hello LintCode!](https://www.lintcode.com/problem/2910/?showListFe=false&page=2&problemTypeId=16&pageSize=50) |
+| 10   | [书写一个有序列表](https://www.lintcode.com/problem/2914/?showListFe=true&page=2&problemTypeId=16&pageSize=50) |
 
 ### 作业二
 
-| 题号 | Lintcode 序号 | 题目                                                         |
-| ---- | ------------- | ------------------------------------------------------------ |
-| 1    | 3017          | [修改文字大小](https://www.lintcode.com/problem/3017/?showListFe=true&page=1&problemTypeId=16&pageSize=50) |
-| 2    | 3014          | [制作水平导航栏（三）](https://www.lintcode.com/problem/3014/?showListFe=true&page=1&problemTypeId=16&pageSize=50) |
-| 3    | 3013          | [左右分布的多种方法](https://www.lintcode.com/problem/3013/?showListFe=true&page=1&problemTypeId=16&pageSize=50) |
-| 4    | 3005          | [彩色的标签](https://www.lintcode.com/problem/3005/?showListFe=true&page=1&problemTypeId=16&pageSize=50) |
-| 5    | 3003          | [炫酷的文字](https://www.lintcode.com/problem/3003/?showListFe=true&page=1&problemTypeId=16&pageSize=50) |
-| 6    | 2996          | [制作学生信息表格](https://www.lintcode.com/problem/2996/?showListFe=true&page=1&problemTypeId=16&pageSize=50) |
-| 7    | 2989          | [选择一门最喜欢的课程](https://www.lintcode.com/problem/2989/?showListFe=true&page=2&problemTypeId=16&pageSize=50) |
-| 8    | 2983          | [炫酷的按钮](https://www.lintcode.com/problem/2983/?showListFe=true&page=2&problemTypeId=16&pageSize=50) |
-| 9    | 2982          | [滚不走的第十行](https://www.lintcode.com/problem/2982/?showListFe=true&page=2&problemTypeId=16&pageSize=50) |
-| 10   | 2976          | [添加进度条](https://www.lintcode.com/problem/2976/?showListFe=true&page=2&problemTypeId=16&pageSize=50) |
+| 题号 | 题目                                                         |
+| ---- | ------------------------------------------------------------ |
+| 1    | [修改文字大小](https://www.lintcode.com/problem/3017/?showListFe=true&page=1&problemTypeId=16&pageSize=50) |
+| 2    | [制作水平导航栏（三）](https://www.lintcode.com/problem/3014/?showListFe=true&page=1&problemTypeId=16&pageSize=50) |
+| 3    | [左右分布的多种方法](https://www.lintcode.com/problem/3013/?showListFe=true&page=1&problemTypeId=16&pageSize=50) |
+| 4    | [彩色的标签](https://www.lintcode.com/problem/3005/?showListFe=true&page=1&problemTypeId=16&pageSize=50) |
+| 5    | [炫酷的文字](https://www.lintcode.com/problem/3003/?showListFe=true&page=1&problemTypeId=16&pageSize=50) |
+| 6    | [制作学生信息表格](https://www.lintcode.com/problem/2996/?showListFe=true&page=1&problemTypeId=16&pageSize=50) |
+| 7    | [选择一门最喜欢的课程](https://www.lintcode.com/problem/2989/?showListFe=true&page=2&problemTypeId=16&pageSize=50) |
+| 8    | [炫酷的按钮](https://www.lintcode.com/problem/2983/?showListFe=true&page=2&problemTypeId=16&pageSize=50) |
+| 9    | [滚不走的第十行](https://www.lintcode.com/problem/2982/?showListFe=true&page=2&problemTypeId=16&pageSize=50) |
+| 10   | [添加进度条](https://www.lintcode.com/problem/2976/?showListFe=true&page=2&problemTypeId=16&pageSize=50) |
 
 ### 作业三
 
-| 题号 | Leetcode 序号 | 题目                                                         |
-| ---- | ------------- | ------------------------------------------------------------ |
-| 1    | 2634          | [过滤数组中的元素](https://leetcode.cn/problems/filter-elements-from-array/) |
-| 2    | 2677          | [分块数组](https://leetcode.cn/problems/chunk-array/)        |
-| 3    | 2920          | [计数器](https://leetcode.cn/problems/counter/)              |
-| 4    | 2629          | [复合函数](https://leetcode.cn/problems/function-composition/) |
-| 5    | 2535          | [转换数组中的每个元素](https://leetcode.cn/problems/apply-transform-over-each-element-in-array/) |
-| 6    | 2695          | [包装数组](https://leetcode.cn/problems/array-wrapper/)      |
-| 7    | 2667          | [创建 Hello World 函数](https://leetcode.cn/problems/create-hello-world-function/) |
-| 8    | 2727          | [判断对象是否为空](https://leetcode.cn/problems/is-object-empty/) |
-| 9    | 2704          | [相等还是不相等](https://leetcode.cn/problems/to-be-or-not-to-be/) |
-| 10   | 2724          | [排序方式](https://leetcode.cn/problems/sort-by/)            |
+| 题号 | 题目                                                         |
+| ---- | ------------------------------------------------------------ |
+| 1    | [过滤数组中的元素](https://leetcode.cn/problems/filter-elements-from-array/) |
+| 2    | [分块数组](https://leetcode.cn/problems/chunk-array/)        |
+| 3    | [计数器](https://leetcode.cn/problems/counter/)              |
+| 4    | [复合函数](https://leetcode.cn/problems/function-composition/) |
+| 5    | [转换数组中的每个元素](https://leetcode.cn/problems/apply-transform-over-each-element-in-array/) |
+| 6    | [包装数组](https://leetcode.cn/problems/array-wrapper/)      |
+| 7    | [创建 Hello World 函数](https://leetcode.cn/problems/create-hello-world-function/) |
+| 8    | [判断对象是否为空](https://leetcode.cn/problems/is-object-empty/) |
+| 9    | [相等还是不相等](https://leetcode.cn/problems/to-be-or-not-to-be/) |
+| 10   | [排序方式](https://leetcode.cn/problems/sort-by/)            |
 
 ### 平时作业评分标准
 
