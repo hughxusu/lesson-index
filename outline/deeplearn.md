@@ -6,12 +6,9 @@
 
 ## 课程主要内容
 
-1. [提示词工程](https://hughxusu.github.io/lesson-prompt/#/)
-2. [机器学习基础](https://hughxusu.github.io/lesson-ai/#/)
+[机器学习基础](https://hughxusu.github.io/lesson-ai/#/)
 
 ## 成绩考核
 
 * 平时成绩 30%。80分基础分，随机抽查点名或回答问题5次，每次4分工20分，共100分。
 * 期末大作业 70%，共100分。
-
-## 资源下载
