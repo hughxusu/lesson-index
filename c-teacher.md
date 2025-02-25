@@ -23,6 +23,7 @@
 - [数学软件实习](https://hughxusu.github.io/lesson-index/#/outline/math)
 - [信息与计算科学课程设计](https://hughxusu.github.io/lesson-index/#/outline/design)
 - [信息与计算科学实践实习](https://hughxusu.github.io/lesson-index/#/outline/practice)
+- [数值分析](https://hughxusu.github.io/lesson-numerical-analysis/#/)
 
 ### 研究生课程
 
