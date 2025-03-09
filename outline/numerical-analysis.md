@@ -17,5 +17,7 @@
   
 * 期末考试占总成绩70%。
 
+## 资源下载
 
+[旧版课件PPT](https://resource-443.webvpn.ncut.edu.cn/asset/#/share?shareId=80617159cae406238fefb9921d940b0a)
 
