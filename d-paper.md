@@ -70,7 +70,7 @@
 
 3. 标题内容过长应该缩进，学院和题目之间没有空行。
 
-<img src="/Users/xusu/Projects/lesson-index/_images/Xnip2025-05-02_10-45-24.jpg" style="zoom:45%;" />
+<img src="./_images/Xnip2025-05-02_10-45-24.jpg" style="zoom:45%;" />
 
 4. 注意页码问题：
 
