@@ -66,7 +66,7 @@
    * 注意页首标题。
 2. 论文封面要填写评阅人。
 
-<img src="/Users/xusu/Projects/lesson-index/_images/Xnip2025-05-02_10-18-13.jpg" style="zoom:45%;" />
+<img src="https://raw.githubusercontent.com/hughxusu/lesson-index/developing/_images/Xnip2025-05-02_10-18-13.jpg" style="zoom:45%;" />
 
 3. 注意页码问题：
 
@@ -78,7 +78,7 @@
 
 4. 去掉论文模版中的顶栏
 
-<img src="/Users/xusu/Projects/lesson-index/_images/Xnip2025-05-02_10-23-32.jpg" style="zoom:45%;" />
+<img src="https://raw.githubusercontent.com/hughxusu/lesson-index/developing/_images/Xnip2025-05-02_10-23-32.jpg" style="zoom:45%;" />
 
 5. 引用文献：
 
