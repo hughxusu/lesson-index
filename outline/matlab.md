@@ -9,7 +9,13 @@
 1. [程序员的工作](https://hughxusu.github.io/lesson-index/#/a-coder-work) 
 2. [如何学习编程](https://hughxusu.github.io/lesson-index/#/b-how-study)
 3. [Python语言](https://hughxusu.github.io/lesson-py/#/)
-4. [Git与Github](https://hughxusu.github.io/lesson-knowledge/#/git/01-%E7%AE%80%E4%BB%8B)
+4. [人工智能概述](https://hughxusu.github.io/lesson-ai/#/index)
+5. [机器学习经典算法](https://hughxusu.github.io/lesson-ai/#/a-base/01-knn)
+
+### 自学内容
+
+1. [Git与Github](https://hughxusu.github.io/lesson-knowledge/#/git/01-%E7%AE%80%E4%BB%8B)
+2. [Pandas](https://hughxusu.github.io/lesson-py/#/e-usage/4-pandas)
 
 ## 成绩考核
 
