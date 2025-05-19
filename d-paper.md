@@ -68,9 +68,9 @@
 
 <img src="https://raw.githubusercontent.com/hughxusu/lesson-index/developing/_images/Xnip2025-05-02_10-18-13.jpg" style="zoom:45%;" />
 
-3. 标题内容过长应该缩进，学院和题目之间没有空行。
+3. 学院和题目之间没有空行。
 
-<img src="./_images/Xnip2025-05-02_10-45-24.jpg" style="zoom:45%;" />
+<img src="https://raw.githubusercontent.com/hughxusu/lesson-index/developing/_images/Xnip2025-05-19_20-00-18.jpg" style="zoom: 50%;" />
 
 4. 注意页码问题：
 
@@ -81,24 +81,24 @@
    
    
       * 论文正文页码应该为大小阿拉伯数字。
-   
-5. 去掉论文模版中的顶栏
 
-<img src="https://raw.githubusercontent.com/hughxusu/lesson-index/developing/_images/Xnip2025-05-02_10-23-32.jpg" style="zoom:45%;" />
-
-6. 引用文献：
+5. 引用文献：
 
    * 实践类论文，引用文献**不少于15篇**，英文文献**不少于5篇**。
+
    * 总数类论文，引用文献**不少于25篇**，英文文献**不少于5篇**。
+
    * 论文应用应该采用交叉引用的格式，在正文中注明引文序号。
+
    * 引用文献，尽量选择学术论文。
+
    * 应用文献中应用**包括文献的页码**。
 
-7. 去除标点符号，论文内容应该在**一万字**以上。
+6. 去除标点符号，论文内容应该在**一万字**以上。
 
-8. 删除附录。
+7. 删除附录。
 
-9. 删除论文中与论文无关的标记。
+8. 删除论文中与论文无关的标记。
 
-10. 注意论文标题中的英文单词大小写问题。
+9. 注意论文标题中的英文单词大小写问题。
 
