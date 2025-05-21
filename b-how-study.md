@@ -15,18 +15,9 @@
 
 ### 程序是什么
 
-<div style="width: 800px; height: 450px; margin: 0 auto;">
-  <iframe
-    style="width: 100%; height: 100%; left: 0; top: 0;" 
-    src="//player.bilibili.com/player.html?isOutside=true&aid=114424337664303&bvid=BV1Q9GSzkE5s&cid=29705962144&p=1&autoplay=0" 
-    scrolling="no" 
-    border="0" 
-    frameborder="no" 
-    framespacing="0" 
-    allowfullscreen="true">
-	</iframe>
-</div>
-
+> [!note]
+>
+> [你管这破玩意叫编程？一段失传的咒语](https://www.bilibili.com/video/BV1Q9GSzkE5s/?share_source=copy_web&vd_source=aa661569ff3138d0b604d53a96184bf2)
 
 ### 编程是什么
 
@@ -38,7 +29,7 @@
 > [!attention]
 >
 > 1. 程序是思维的表达，想写出好的程序，要有好的思想。
-> 2. 随着AI辅助编程的普及，好的思想变得更为宝贵
+> 2. 随着AI辅助编程的普及，好的思想变得更为宝贵。
 
 ## 学习编程方法
 
