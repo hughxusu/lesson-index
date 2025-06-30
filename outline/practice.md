@@ -1,6 +1,6 @@
 # 信息与计算科学实践实习
 
-[责任教师：徐夙](https://hughxusu.github.io/lesson-index/#/c-teacher)、张波
+责任教师：[徐夙](https://hughxusu.github.io/lesson-index/#/c-teacher)、张波
 
 本站网址：https://hughxusu.github.io/lesson-index/#/outline/design
 
@@ -9,7 +9,7 @@
 * 信息与计算科学实践实习课程通过学生参与实习实践来提高动手能力和培养解决实际问题的能力。
 * 学生自主选择实习单位，完成实习内容，实习内容形式不限。
 * 学生选择的实习单位应该是正式的企事业单位，可以开具实习证明，并由负责人签字，实习单位盖章。
-* 实习的周期至少12天。
+* 实习的周期至少两周（10个工作日）。
 
 ## 成绩考核
 
