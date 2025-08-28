@@ -45,11 +45,11 @@ flowchart LR
 
 ## 程序员的职业方向
 
-<img src="https://raw.githubusercontent.com/hughxusu/lesson-index/developing/_images/pFGJ5Qg.png" />
+<img src="https://raw.githubusercontent.com/hughxusu/lesson-index/developing/_images/career.jpg" />
 
 ## 程序员的职业技能
 
-![](https://raw.githubusercontent.com/hughxusu/lesson-index/developing/_images/pFGJoLj.png)
+![](https://raw.githubusercontent.com/hughxusu/lesson-index/developing/_images/skills.jpg)
 
 ## 看看都有哪些工作
 
