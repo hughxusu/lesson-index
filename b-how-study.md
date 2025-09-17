@@ -61,7 +61,7 @@
 
 ## 编程学习的最佳实践
 
-* [结对编程](https://hughxusu.github.io/lesson-knowledge/#/others/%E7%BB%93%E5%AF%B9%E7%BC%96%E7%A8%8B)
+* [结对编程](https://hughxusu.github.io/lesson-knowledge/#/docs/others/%E7%BB%93%E5%AF%B9%E7%BC%96%E7%A8%8B)
 
 ## 课外阅读
 
