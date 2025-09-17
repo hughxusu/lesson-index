@@ -31,6 +31,7 @@
 | Python程序设计基础 I     | https://hughxusu.github.io/lesson-index/#/outline/python_1   |
 | Python程序设计基础       | https://hughxusu.github.io/lesson-index/#/outline/python     |
 | 计算机网络基础及应用Ⅰ    | https://hughxusu.github.io/lesson-index/#/outline/network    |
+| JavaScript程序设计基础   | https://hughxusu.github.io/lesson-index/#/outline/javascript |
 | Matlab程序设计实践与提高 | https://hughxusu.github.io/lesson-index/#/outline/matlab     |
 | 人工智能基础             | https://hughxusu.github.io/lesson-index/#/outline/ai         |
 | 深度学习的数学基础及实践 | https://hughxusu.github.io/lesson-index/#/outline/deeplearn  |

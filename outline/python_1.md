@@ -2,7 +2,7 @@
 
 [授课教师：徐夙](https://hughxusu.github.io/lesson-index/#/c-teacher)
 
-本站网址：https://hughxusu.github.io/lesson-index/#/outline/python_1
+本站网址：https://hughxusu.github.io/lesson-index/#/outline/python_2
 
 ## 课程主要内容
 
@@ -15,7 +15,6 @@
 ### 自学内容
 
 1. [Git与Github](https://hughxusu.github.io/lesson-knowledge/#/git/01-%E7%AE%80%E4%BB%8B)
-2. [Pandas](https://hughxusu.github.io/lesson-py/#/e-usage/4-pandas)
 
 ## 成绩考核
 
@@ -41,11 +40,9 @@
 
 #### 期末大作业
 
-1. 根据系统需求完成相关系统设计代码并完成报告。
+1. 根据需求完成相关系统设计代码并完成报告。
 1. 每位同学打印报告（**双面打印**），最后一节课提交。
 1. 报告模板在资源下载中。
-
-### [作业内容](/homework/python)
 
 ## 资源下载
 

@@ -36,8 +36,6 @@
 1. 每位同学打印报告（**双面打印**），最后一节课提交。
 1. 报告模板在资源下载中。
 
-### [作业内容](/homework/network)
-
 ## 资源下载
 
 [模板文件下载](https://resource-443.webvpn.ncut.edu.cn/asset/#/share?shareId=db619ec09d63e7745d21255310ee9d25)
