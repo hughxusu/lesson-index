@@ -14,7 +14,7 @@
 
 ### 自学内容
 
-1. [Git与Github](https://hughxusu.github.io/lesson-knowledge/#/git/01-%E7%AE%80%E4%BB%8B)
+1. [Git与Github](https://hughxusu.github.io/lesson-knowledge/#/docs/git/01-%E7%AE%80%E4%BB%8B)
 
 ## 成绩考核
 
