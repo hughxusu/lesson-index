@@ -42,6 +42,8 @@
 1. 每位同学打印报告（**双面打印**），最后一节课提交。
 1. 报告模板在资源下载中。
 
+### [课程作业](/homework/python)
+
 ## 资源下载
 
 [模板文件下载](https://resource-443.webvpn.ncut.edu.cn/asset/#/share?shareId=dd8de502370742b078b30ec2c2952e0f)

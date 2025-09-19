@@ -2,7 +2,7 @@
 
 [授课教师：徐夙](https://hughxusu.github.io/lesson-index/#/c-teacher)
 
-本站网址：https://hughxusu.github.io/lesson-index/#/outline/python_2
+本站网址：https://hughxusu.github.io/lesson-index/#/outline/python_1
 
 ## 课程主要内容
 
@@ -44,9 +44,11 @@
 1. 每位同学打印报告（**双面打印**），最后一节课提交。
 1. 报告模板在资源下载中。
 
+### [课程作业](/homework/python_1)
+
 ## 资源下载
 
-[模板文件下载](https://resource-443.webvpn.ncut.edu.cn/asset/#/share?shareId=dd8de502370742b078b30ec2c2952e0f)
+[模板文件下载](https://resource-443.webvpn.ncut.edu.cn/asset/#/share?shareId=e4374db16e2472359df522449887c5bf)
 
 > [!warning]
 >
