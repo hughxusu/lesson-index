@@ -9,8 +9,8 @@
 1. [程序员的工作](https://hughxusu.github.io/lesson-index/#/a-coder-work) 
 2. [如何学习编程](https://hughxusu.github.io/lesson-index/#/b-how-study)
 3. [Python语言](https://hughxusu.github.io/lesson-py/#/)
-4. [人工智能概述](https://hughxusu.github.io/lesson-ai/#/index)
-5. [机器学习经典算法](https://hughxusu.github.io/lesson-ai/#/a-base/01-knn)
+4. [人工智能概述](https://hughxusu.github.io/lesson-ai/#/docs/index)
+5. [机器学习经典算法](https://hughxusu.github.io/lesson-ai/#/docs/a-base/01-knn)
 
 ### 自学内容
 
