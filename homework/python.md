@@ -85,3 +85,12 @@
 
 2. 8次作用满分8分，折算为期末总成绩20分。
 
+## 期末大作业
+
+1. FIFA 19 足球运动员数据 https://www.kaggle.com/datasets/chaitanyahivlekar/fifa-19-player-dataset
+2.  IBM 人力资源流失分析 https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
+3. 电信用户流失预测 https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+4. 信用卡违约数据 https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset
+5. 客户个性化营销分析 https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
+6. Netflix 电影与电视节目数据 https://www.kaggle.com/datasets/shivamb/netflix-shows/data
+
