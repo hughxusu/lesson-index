@@ -66,11 +66,11 @@
    * 注意页首标题。
 2. 论文封面要填写评阅人。
 
-<img src="https://raw.githubusercontent.com/hughxusu/lesson-index/developing/_images/Xnip2025-05-02_10-18-13.jpg" style="zoom:45%;" />
+<img src="https://raw.githubusercontent.com/hughxusu/lesson-index/developing/image/Xnip2025-05-02_10-18-13.jpg" style="zoom:45%;" />
 
 3. 学院和题目之间没有空行。
 
-<img src="https://raw.githubusercontent.com/hughxusu/lesson-index/developing/_images/Xnip2025-05-19_20-00-18.jpg" style="zoom: 50%;" />
+<img src="https://raw.githubusercontent.com/hughxusu/lesson-index/developing/image/Xnip2025-05-19_20-00-18.jpg" style="zoom: 50%;" />
 
 4. 注意页码问题：
 

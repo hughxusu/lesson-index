@@ -33,17 +33,17 @@ flowchart LR
 
 浏览器/客户端：上网过程中，负责获取和消费资源的电脑。
 
-![](https://raw.githubusercontent.com/hughxusu/lesson-index/developing/_images/1774310-20200706180730400-526445821.png)
+![](https://raw.githubusercontent.com/hughxusu/lesson-index/developing/image/1774310-20200706180730400-526445821.png)
 
 > 软件行业是一种特殊的制造业，制造的东西并不是实体。
 
 ## 程序员的职业方向
 
-<img src="https://raw.githubusercontent.com/hughxusu/lesson-index/developing/_images/career.jpg" />
+<img src="https://raw.githubusercontent.com/hughxusu/lesson-index/developing/image/career.jpg" />
 
 ## 程序员的职业技能
 
-![](https://raw.githubusercontent.com/hughxusu/lesson-index/developing/_images/skills.jpg)
+![](https://raw.githubusercontent.com/hughxusu/lesson-index/developing/image/skills.jpg)
 
 ## 看看都有哪些工作
 
