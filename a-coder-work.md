@@ -39,7 +39,7 @@ flowchart LR
 
 ## 与编程相关的工作
 
-<img src="https://raw.githubusercontent.com/hughxusu/lesson-index/developing/images/career.jpg" />
+<img src="https://raw.githubusercontent.com/hughxusu/lesson-index/developing/images/career.jpg" style="zoom:55%;" />
 
 ### 软件公司的职位
 
