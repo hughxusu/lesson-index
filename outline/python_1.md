@@ -14,7 +14,7 @@
 
 ### 自学内容
 
-1. [Git与Github](https://hughxusu.github.io/lesson-knowledge/#/docs/git/01-%E7%AE%80%E4%BB%8B)
+1. [Git与Github](https://hughxusu.github.io/lesson-knowledge/#/docs/01-git/01-%E7%AE%80%E4%BB%8B)
 
 ## 成绩考核
 
@@ -33,7 +33,7 @@
 3. 文件提交到课程群的作业收集中。
 4. 报告模板在资源下载中。
 
-> [!attention]
+> [!alert]
 >
 > 1. 每位同学提交文件电子版需要严格按照上述格式给文件命名。
 > 2. 如果没有按规范格式提交作业，导致作业没有收集到，该次平时成绩会被扣除。
