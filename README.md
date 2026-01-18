@@ -22,7 +22,7 @@
 | 服务端编程     | https://hughxusu.github.io/lesson-server/#/             |
 | 机器学习基础   | https://hughxusu.github.io/lesson-ai/#/                 |
 | 编程百艺       | https://hughxusu.github.io/lesson-knowledge/#/          |
-| 算法应用与实践 | https://hughxusu.github.io/lesson-algorithm/#/          |
+| 数据结构与算法 | https://hughxusu.github.io/lesson-algorithm/#/          |
 | 数值分析       | https://hughxusu.github.io/lesson-numerical-analysis/#/ |
 
 ## 课程目录
