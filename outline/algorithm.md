@@ -42,7 +42,7 @@
 
 ## 资源下载
 
-[模板文件下载](https://resource-443.webvpn.ncut.edu.cn/asset/#/share?shareId=dd8de502370742b078b30ec2c2952e0f)
+[模板文件下载](https://resource-443.webvpn.ncut.edu.cn/asset/#/share?shareId=a70a9a1c97f67f0ed4fb9eedc3442937)
 
 > [!warning]
 >
