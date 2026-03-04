@@ -11,7 +11,7 @@
 ## 成绩考核
 
 * 平时成绩占总成绩30%。
-  * 基础分10%
+  * 基础分10%。
   * 平时作业：每次作业满分100分，共8次，取平均值。占总成绩10%。
   * 课堂表现和随机抽查点名或回答问题5次共100分，占总成绩5%。
   * 期中考试，占总成绩5%。
@@ -42,7 +42,7 @@
 
 ## 资源下载
 
-[模板文件下载](https://resource-443.webvpn.ncut.edu.cn/asset/#/share?shareId=a70a9a1c97f67f0ed4fb9eedc3442937)
+[模板文件下载](https://resource-443.webvpn.ncut.edu.cn/asset/#/share?shareId=dd8de502370742b078b30ec2c2952e0f)
 
 > [!warning]
 >
