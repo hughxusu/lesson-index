@@ -30,7 +30,7 @@
 | 标题                     | 网址                                                         |
 | ------------------------ | ------------------------------------------------------------ |
 | Python程序设计基础       | https://hughxusu.github.io/lesson-index/#/outline/python     |
-| 数据结构II               |                                                              |
+| 数据结构II               | https://hughxusu.github.io/lesson-index/#/outline/algorithm  |
 | JavaScript程序设计基础   | https://hughxusu.github.io/lesson-index/#/outline/javascript |
 | Matlab程序设计实践与提高 | https://hughxusu.github.io/lesson-index/#/outline/matlab     |
 | 人工智能基础             | https://hughxusu.github.io/lesson-index/#/outline/ai         |
