@@ -62,7 +62,7 @@
 
 ### 作业三
 
-训练vgg-16、googlenet或resnet-18的网络中的一种，完成迁移训练。
+训练vgg-16、googlenet或resnet-18的网络中的一种。完成迁移训练要求：
 
 1. 使用cifar-100预训练模型，然后将其迁移到cifar-10上进行微调。训练时注意事项：
    * 注意修改vgg-16全连接层用于cifar-100和cifar-10的训练。
@@ -95,7 +95,7 @@
 
 从以下三个不同维度的任务中任选其一：
 
-1. 医疗问答任务（中文医疗对话）：使用 [`shibing624/medical` ](https://huggingface.co/datasets/shibing624/medical)
+1. 医疗问答任务（中文医疗对话）：使用[`shibing624/medical` ](https://huggingface.co/datasets/shibing624/medical)
    * 目标：让模型学会专业的医学解释和问诊风格。
 2. 法律咨询任务（法律指令微调）：使用[`Dusker/lawyer-llama` ](https://huggingface.co/datasets/Dusker/lawyer-llama)
    * 目标：训练模型在法律框架下给出规范、严谨的法律建议。
@@ -107,8 +107,8 @@
 1. 数据准备：从Hugging Face下载数据，并按LLaMA-Factory要求转化为`alpaca`或`sharegpt`格式。
 2. 基准测试（Baseline）：在微调前，使用5-10个典型问题测试原模型，记录回答结果。
 3. 微调过程：
-   * 设置超参数（如 Learning Rate, Epochs, LoRA Rank 等）。
-   * 观察并记录 Loss 曲线。
+   * 设置超参数（如Learning Rate, Epochs, LoRA Rank 等）。
+   * 观察并记录Loss曲线。
 4. 模型评估：
    * 定量评估：使用LLaMA-Factory自带的`Evaluation`功能计算PPL（困惑度）或BLEU/ROUGE分数。
    * 定性评估：针对基准测试的问题再次提问，对比微调前后的效果（Case Study）。
@@ -121,7 +121,7 @@
 | 数据处理   | 20%  | 数据格式转换正确，有对数据集进行清洗、采样或简单分析的痕迹。 |
 | 实验对比   | 25%  | 核心项：清晰展示微调前vs微调后的对比（表格或对话截图），并有合理的结论。 |
 | 报告质量   | 15%  | 文档结构完整，包含Loss曲线图、显存占用记录、训练时间等关键指标。 |
-| 总结与思考 | 10%  | 对模型幻觉、过拟合现象的观察，或尝试了不同的LoRA 秩（Rank）对效果的影响。 |
+| 总结与思考 | 10%  | 对模型幻觉、过拟合现象的观察，或尝试了不同的LoRA秩（Rank）对效果的影响。 |
 
 ### 提交要求
 
