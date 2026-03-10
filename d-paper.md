@@ -102,3 +102,6 @@
 
 9. 注意论文标题中的英文单词大小写问题。
 
+## 资源下载
+
+[PPT模版下载](https://resource-443.webvpn.ncut.edu.cn/asset/#/share?shareId=89a08b49ae3ee890357ed6634c1de7fd)
