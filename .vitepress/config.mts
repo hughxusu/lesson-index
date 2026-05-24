@@ -2,11 +2,12 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  srcDir: 'docs',
   title: "教程索引",
-  description: "A VitePress Site",
+  description: "教程索引",
+  base: '/lesson-index/',
+  // ignoreDeadLinks: true,
   head: [
-    ['link', { rel: 'icon', href: '/images/logo_icon.jpeg' }],
+    ['link', { rel: 'icon', href: '/logo_icon.jpeg' }],
   ],
   themeConfig: {
     outline: {
