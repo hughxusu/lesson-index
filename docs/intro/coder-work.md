@@ -1,0 +1,76 @@
+# 编程能做哪些工作
+
+## 概述
+
+```mermaid
+flowchart LR
+    a(前互联网时代) --> b(互联网时代) --> c(移动互联网时代) --> d(大模型与\n生成式AI时代) --> e(智能体与\n全自动化编程时代)
+```
+
+现在所有的软件和服务都要依托于互联网。
+
+上网的目的：聊天、追剧、打游戏、使用AI工具……
+
+**上网的本质目的是获取和消费资源。**
+
+## 互联网服务框架
+
+BS（Browser/Server）与CS（Client/Server）架构
+
+```mermaid
+flowchart LR
+    a(浏览器 Browser) -- http协议-请求服务器 --> c(后台程序)
+    c -- http协议-服务器响应 -->a
+    b(客户端 Client) <-- 其他协议-请求与响应 --> c
+    subgraph 服务器Server
+    c <-- 数据库查询与返回 --> d(数据库)
+    end
+    subgraph 前端
+    a
+    b
+    end
+```
+
+服务器：上网过程中，负责存放和对外提供资源的电脑。
+
+浏览器/客户端：上网过程中，负责获取和消费资源的电脑。
+
+![](https://raw.githubusercontent.com/hughxusu/lesson-index/developing/images/1774310-20200706180730400-526445821.png)
+
+> 软件行业是一种特殊的制造业，制造的东西并不是实体。
+
+## 与编程相关的工作
+
+<img src="https://raw.githubusercontent.com/hughxusu/lesson-index/developing/images/career.jpg" style="zoom:55%;" />
+
+### 软件公司的职位
+
+![](./images/Xnip2025-12-15_20-40-02.jpg)
+
+## 职业技能
+
+![](https://raw.githubusercontent.com/hughxusu/lesson-index/developing/images/skills.jpg)
+
+## 看看都有哪些工作
+
+[BOSS直聘](https://www.zhipin.com/beijing/?seoRefer=index)
+
+## 程序员的发展
+
+### 程序员能干多久
+
+* 目前软件行业就业还是在增长阶段。
+* 软件行业是一个技术迭代非常快的行业，程序员需要保持对新技术的敏感度和持续的学习能力。
+
+### 程序员与AI
+
+目前的人工智能发展可以一定程度的提高程序工作效率，但是并不能替代程序员的工作。
+
+> 如果人工智能可以完全替代程序员，那99%的工作就可以由人工智能替代。
+
+## 课外阅读
+
+| 书名                                                         | 图书馆索书号 |
+| ------------------------------------------------------------ | ------------ |
+| [程序员的README](https://book.douban.com/subject/36457109/)  | TP311/78     |
+| [软技能（代码之外的生存指南）](https://book.douban.com/subject/36044253/) | C913.2/398   |
