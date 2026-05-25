@@ -2,17 +2,16 @@
 
 [授课教师：徐夙](https://hughxusu.github.io/lesson-index/#/c-teacher)
 
-本站网址：https://hughxusu.github.io/lesson-index/#/outline/python
+本站网址：https://hughxusu.github.io/lesson-index/docs/outline/python
 
 ## 课程主要内容
 
-1. [程序员的工作](https://hughxusu.github.io/lesson-index/#/a-coder-work)
-2. [如何学习编程](https://hughxusu.github.io/lesson-index/#/b-how-study)
+1. [程序员的工作](https://hughxusu.github.io/lesson-index/docs/intro/coder-work)
 3. [Python语言与AI编程实践](https://hughxusu.github.io/lesson-py/#/)
 
 ### 自学内容
 
-1. [Git与Github](https://hughxusu.github.io/lesson-knowledge/#/docs/01-git/01-%E7%AE%80%E4%BB%8B)
+1. [Git与Github](https://hughxusu.github.io/lesson-knowledge/#/docs/c-git/01-%E7%AE%80%E4%BB%8B)
 
 ## 成绩考核
 

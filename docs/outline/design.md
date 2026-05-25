@@ -2,7 +2,7 @@
 
 [责任教师：徐夙](https://hughxusu.github.io/lesson-index/#/c-teacher)、张波
 
-本站网址：https://hughxusu.github.io/lesson-index/#/outline/design
+本站网址：https://hughxusu.github.io/lesson-index/docs/outline/design
 
 ## 主要内容
 

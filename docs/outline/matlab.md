@@ -2,12 +2,11 @@
 
 [授课教师：徐夙](https://hughxusu.github.io/lesson-index/#/c-teacher)
 
-本站网址：https://hughxusu.github.io/lesson-index/#/outline/matlab
+本站网址：https://hughxusu.github.io/lesson-index/docs/outline/matlab
 
 ## 课程主要内容
 
 1. [程序员的工作](https://hughxusu.github.io/lesson-index/#/a-coder-work) 
-2. [如何学习编程](https://hughxusu.github.io/lesson-index/#/b-how-study)
 3. [Python语言](https://hughxusu.github.io/lesson-py/#/)
 4. [人工智能概述](https://hughxusu.github.io/lesson-ai/#/docs/index)
 5. [机器学习经典算法](https://hughxusu.github.io/lesson-ai/#/docs/a-base/01-knn)

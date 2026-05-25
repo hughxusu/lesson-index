@@ -2,7 +2,7 @@
 
 [授课教师：徐夙](https://hughxusu.github.io/lesson-index/#/c-teacher)
 
-本站网址：https://hughxusu.github.io/lesson-index/#/outline/ai
+本站网址：https://hughxusu.github.io/lesson-index/docs/outline/ai
 
 ## 课程主要内容
 

@@ -4,9 +4,5 @@ layout: home
 
 hero:
   name: "教程索引"
-  actions:
-    - theme: brand
-      text: 进入教程
-      link: /README.md
 ---
 

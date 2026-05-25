@@ -1,8 +1,8 @@
 # 数学软件实习
 
-[授课教师：徐夙](https://hughxusu.github.io/lesson-index/#/c-teacher)、张波
+[授课教师：徐夙](https://hughxusu.github.io/lesson-index/#/c-teacher)
 
-本站网址：https://hughxusu.github.io/lesson-index/#/outline/math
+本站网址：https://hughxusu.github.io/lesson-index/docs/outline/math
 
 ## 主要内容
 
