@@ -5,8 +5,11 @@ export default withMermaid({
   title: "教程索引",
   description: "教程索引",
   base: '/lesson-index/',
+  markdown: {
+    math: true,
+  },
   head: [
-    ['link', { rel: 'icon', href: '/logo_icon.jpeg' }],
+    ['link', { rel: 'icon', href: '/lesson-index/logo_icon.jpeg' }],
   ],
   themeConfig: {
     outline: {
