@@ -1,6 +1,6 @@
 // .vitepress/theme/index.ts
 import DefaultTheme from 'vitepress/theme'
-import './custom.css' // 引入你刚才创建的汉化 CSS 文件
+import './custom.css'
 
 export default {
   extends: DefaultTheme, // 继承 VitePress 的默认主题

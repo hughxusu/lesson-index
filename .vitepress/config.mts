@@ -15,6 +15,9 @@ export default withMermaid({
     outline: {
       label: '导航',
     },
+    footer: {
+      copyright: '徐夙 &copy; 2026 北方工业大学',
+    },
     // https://vitepress.dev/reference/default-theme-config
     // nav: [
     //   { text: 'Home', link: '/' },

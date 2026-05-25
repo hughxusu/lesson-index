@@ -92,6 +92,7 @@ lesson-index/
    - 配置文件 `.vitepress/config.mts` 包含 base 路径配置
    - 启用 Mermaid 图表支持：`markdown: { mermaid: true }`
    - 启用数学公式支持：`markdown: { math: true }`
+   - 配置页脚信息：在 `themeConfig` 中添加 `footer` 对象
    - 构建命令使用 `npm run docs:build` 或 `task build`
    - 开发服务器使用 `npm run docs:dev` 或 `task dev`
 
