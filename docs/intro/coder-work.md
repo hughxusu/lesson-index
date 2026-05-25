@@ -35,7 +35,7 @@ flowchart LR
 
 浏览器/客户端：上网过程中，负责获取和消费资源的电脑。
 
-![](https://raw.githubusercontent.com/hughxusu/lesson-index/developing/images/1774310-20200706180730400-526445821.png)
+![](./assets/1774310-20200706180730400-526445821.png)
 
 > 软件行业是一种特殊的制造业，制造的东西并不是实体。
 
@@ -45,7 +45,7 @@ flowchart LR
 
 ### 软件公司的职位
 
-![](./images/Xnip2025-12-15_20-40-02.jpg)
+![](./assets/Xnip2025-12-15_20-40-02.jpg)
 
 ## 职业技能
 
