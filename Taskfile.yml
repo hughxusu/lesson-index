@@ -2,14 +2,33 @@ version: '3'
 
 tasks:
   install:
+    desc: 安装项目依赖
     cmds:
       - npm install
 
   dev:
+    desc: 启动开发服务器
     cmds:
       - npm run docs:dev
 
+  build:
+    desc: 构建生产版本
+    cmds:
+      - npm run docs:build
+
+  preview:
+    desc: 预览构建结果
+    cmds:
+      - npm run docs:preview
+
+  deploy:
+    desc: 构建并预览
+    cmds:
+      - task: build
+      - task: preview
+
   default:
+    desc: 安装依赖并启动开发服务器
     cmds:
       - npm install
       - npm run docs:dev

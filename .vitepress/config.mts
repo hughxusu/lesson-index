@@ -1,17 +1,16 @@
-import { defineConfig } from 'vitepress'
+import { withMermaid } from 'vitepress-plugin-mermaid'
 
 // https://vitepress.dev/reference/site-config
-export default defineConfig({
+export default withMermaid({
   title: "教程索引",
   description: "教程索引",
   base: '/lesson-index/',
-  // ignoreDeadLinks: true,
   head: [
     ['link', { rel: 'icon', href: '/logo_icon.jpeg' }],
   ],
   themeConfig: {
     outline: {
-      label: '页面导航',
+      label: '导航',
     },
     // https://vitepress.dev/reference/default-theme-config
     // nav: [
