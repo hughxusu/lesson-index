@@ -1,6 +1,6 @@
 # 教程索引
 
-本站网址 https://hughxusu.github.io/lesson-index/#/
+本站网址 https://hughxusu.github.io/lesson-index/
 
 ## 主题文档目录
 
