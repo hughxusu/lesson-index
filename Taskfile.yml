@@ -6,7 +6,7 @@ tasks:
     cmds:
       - npm install
 
-  dev:
+  default:
     desc: 启动开发服务器
     cmds:
       - npm run docs:dev
@@ -27,7 +27,7 @@ tasks:
       - task: build
       - task: preview
 
-  default:
+  init:
     desc: 安装依赖并启动开发服务器
     cmds:
       - npm install
