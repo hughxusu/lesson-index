@@ -8,13 +8,8 @@
 
 授课内容：
 
-1. 机器学习常用软件库
-   1. [Numpy](https://hughxusu.github.io/lesson-py/#/docs/e-usage/2-numpy)
-   2. [Matplotlib](https://hughxusu.github.io/lesson-py/#/docs/e-usage/3-matplotlib)
-   3. [Pandas](https://hughxusu.github.io/lesson-py/#/docs/e-usage/4-pandas)
-
-2. [人工智能概述](https://hughxusu.github.io/lesson-ai/#/docs/index)
-3. [机器学习经典算法](https://hughxusu.github.io/lesson-ai/#/docs/a-base/01-knn)
+* [人工智能概述](https://hughxusu.github.io/lesson-ai/#/docs/index)
+* [机器学习经典算法](https://hughxusu.github.io/lesson-ai/#/docs/a-base/01-knn)
 
 ## 成绩考核
 
