@@ -5,6 +5,7 @@ export default withMermaid({
   title: "教程索引",
   description: "教程索引",
   base: '/lesson-index/',
+  ignoreDeadLinks: true,
   markdown: {
     math: true,
   },
