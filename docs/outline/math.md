@@ -8,8 +8,7 @@
 
 授课内容：
 
-* [人工智能概述](https://hughxusu.github.io/lesson-ai/#/docs/index)
-* [机器学习经典算法](https://hughxusu.github.io/lesson-ai/#/docs/a-base/01-knn)
+* [人工智能概述与机器学习经典算法](https://hughxusu.github.io/lesson-ai/#/docs/index)
 
 ## 成绩考核
 
