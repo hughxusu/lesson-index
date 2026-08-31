@@ -105,7 +105,7 @@
 
 ## 资源下载
 
-[模板文件下载](https://resource-443.webvpn.ncut.edu.cn/asset/#/share?shareId=fa85a9a9390906d914597b96680e6aab)
+[模板文件下载](https://https-resource-ncut-edu-cn-443.webvpn.ncut.edu.cn/asset/#/share?shareId=fa85a9a9390906d914597b96680e6aab)
 
 > [!warning]
 >
