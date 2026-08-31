@@ -6,7 +6,7 @@
 
 ## 课程主要内容
 
-[机器学习基础](https://hughxusu.github.io/lesson-ai/#/)
+[大模型驱动机器学习实战](https://hughxusu.github.io/lesson-ai/#/)
 
 ## 成绩考核
 

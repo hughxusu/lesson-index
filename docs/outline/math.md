@@ -8,13 +8,7 @@
 
 授课内容：
 
-1. 机器学习常用软件库
-   1. [Numpy](https://hughxusu.github.io/lesson-py/#/docs/e-usage/2-numpy)
-   2. [Matplotlib](https://hughxusu.github.io/lesson-py/#/docs/e-usage/3-matplotlib)
-   3. [Pandas](https://hughxusu.github.io/lesson-py/#/docs/e-usage/4-pandas)
-
-2. [人工智能概述](https://hughxusu.github.io/lesson-ai/#/docs/index)
-3. [机器学习经典算法](https://hughxusu.github.io/lesson-ai/#/docs/a-base/01-knn)
+* [人工智能概述与机器学习经典算法](https://hughxusu.github.io/lesson-ai/#/docs/index)
 
 ## 成绩考核
 
@@ -89,8 +83,7 @@
    * 纸制版报告需要**双面打印**，开学**第一周提交**到博远楼809。
    * 电子版在课程群里收集，电子版**文件命名格式**为`学号_班级_姓名`，例如：`2001092_信2202_张三`。
 
-> [!alert]
->
+> [!caution]
 > 每位同学提交文件电子版需要严格按照上述格式给文件命名。
 
 ### 评分标准
