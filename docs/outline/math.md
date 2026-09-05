@@ -98,7 +98,4 @@
 
 ## 资源下载
 
-[模板与数据文件下载](https://https-resource-ncut-edu-cn-443.webvpn.ncut.edu.cn/asset/#/share?shareId=fa85a9a9390906d914597b96680e6aab)
-
-
-
+[模板与数据文件下载](https://pan.baidu.com/s/1FL7r0HjGM2yrSouCQRw_jg?pwd=6dyr )，提取码: 6dyr
