@@ -31,4 +31,4 @@
 
 ## 资源下载
 
-[模板文件下载](https://pan.baidu.com/s/1WuGuvjOh8tl8oQPKb9EOtw?pwd=84ri)，提取码：84ri。
+[模版文件下载](https://pan.baidu.com/s/1v20N_r2qCGUYNQ4uOYLqXw?pwd=32gi)，提取码：32gi。
