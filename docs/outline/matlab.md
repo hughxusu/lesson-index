@@ -1,4 +1,4 @@
-# Matlab程序设计实践与提高
+# 机器学习基础与AI辅助编程实践
 
 [授课教师：徐夙](https://hughxusu.github.io/lesson-index/#/c-teacher)
 
@@ -6,19 +6,18 @@
 
 ## 课程主要内容
 
-1. [程序员的工作](https://hughxusu.github.io/lesson-index/#/a-coder-work) 
-3. [Python语言](https://hughxusu.github.io/lesson-py/#/)
-4. [人工智能概述](https://hughxusu.github.io/lesson-ai/#/docs/index)
-5. [机器学习经典算法](https://hughxusu.github.io/lesson-ai/#/docs/a-base/01-knn)
+1. [程序员的工作](https://hughxusu.github.io/lesson-index/docs/intro/coder-work)
+4. [大模型驱动机器学习实战](https://hughxusu.github.io/lesson-ai/#/docs/index)
 
 ### 自学内容
 
 1. [Git与Github](https://hughxusu.github.io/lesson-knowledge/#/docs/git/01-%E7%AE%80%E4%BB%8B)
+1. [Python语言与AI编程实践](https://hughxusu.github.io/lesson-py/#/)
 
 ## 成绩考核
 
-* 平时成绩 30%。80分基础分，随机抽查点名或回答问题5次，每次4分工20分，共100分。
-* 期末大作业 70%，共100分。
+* 平时成绩30%。80分基础分，随机抽查点名或回答问题5次，每次4分工20分，共100分。
+* 期末大作业70%，共100分。
 
 ## 期末大作业
 
@@ -147,8 +146,4 @@
 
 ## 资源下载
 
-[模板文件下载](https://resource-443.webvpn.ncut.edu.cn/asset/#/share?shareId=1709f6d9c82190647d5fbf33514e5fbb)
-
-> [!warning]
->
-> [使用校园网打开或使用webvpn登录](https://webvpn.ncut.edu.cn/iam/login)
+[模板文件下载](https://pan.baidu.com/s/1Oi3tisB9ypELLxjWjxy5Fg?pwd=b6ej)，提取码: b6ej。
