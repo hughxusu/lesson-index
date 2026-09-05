@@ -1,4 +1,4 @@
-# Python 程序设计基础
+# Python程序设计基础
 
 [授课教师：徐夙](https://hughxusu.github.io/lesson-index/#/c-teacher)
 
@@ -16,10 +16,10 @@
 ## 成绩考核
 
 * 平时成绩占总成绩30%。
-  * 课堂表现和随机抽查点名或回答问题5次共100分，占10%。
-  * 平时作业：每次作业满分100分，共3次，取平均值。占总成绩20%。
+  * 出勤率：占总成绩10%。
+  * 平时作业：占总成绩20%。
 
-* 期末大作业 共100分，占70%。
+* 期末考试：占70%。（期末考试满分100分）
 
 ### 作业要求
 
@@ -35,18 +35,12 @@
 > 1. 每位同学提交文件电子版需要严格按照上述格式给文件命名。
 > 2. 如果没有按规范格式提交作业，导致作业没有收集到，该次平时成绩会被扣除。
 
-#### 期末大作业
+**[课程作业](/docs/homework/python)**
 
-1. 根据需求完成相关系统设计代码并完成报告。
-1. 每位同学打印报告（**双面打印**），最后一节课提交。
-1. 报告模板在资源下载中。
-
-### [课程作业](/docs/homework/python)
+**[提交作业网站](https://www.ketangpai.cn/#/homePage)**
 
 ## 资源下载
 
-[模板文件下载](https://resource-443.webvpn.ncut.edu.cn/asset/#/share?shareId=dd8de502370742b078b30ec2c2952e0f)
+[模板文件下载](https://pan.baidu.com/s/1dvXsVQ_zDMx5TkkeZ5Dr5A?pwd=32vj )，提取码：32vj。
 
-> [!warning]
->
-> [使用校园网打开或使用webvpn登录](https://webvpn.ncut.edu.cn/iam/login)
+
